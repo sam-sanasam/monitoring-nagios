@@ -58,9 +58,9 @@ Refer below image fore ref..\
 
 
 ## Now we will do SOME monitoring things :-) 
-1. We will monitor the CLIENTVERSION\
-2. WE will monitor the Process_state\
-3. We will monitor the CPU load\
+1. We will monitor the CLIENTVERSION
+2. WE will monitor the Process_state
+3. We will monitor the CPU load
 
 #### For client version monitoring:
 * Create a configuation file as below in the confd directory where all the .cfg files are resite:\
